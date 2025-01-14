@@ -1,0 +1,29 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # twice a day
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: ramg-awasthi
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          
+      - name: Push changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          branch: main
+          message: 'Generate Snake Animation'
+
+permissions:
+  contents: write
