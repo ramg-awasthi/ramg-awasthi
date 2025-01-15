@@ -1,7 +1,7 @@
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Hi there, I'm Ram Awasthi &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=ramg-awasthi&color=blue)
+# <picture><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" /></picture>Hi there, I'm Ram Awasthi  &nbsp; ![](https://komarev.com/ghpvc/?username=ramg-awasthi&color=blue)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=100&lines=Engineering+Manager+at+Flipped.ai;1800%2B+Commits+%7C+450%2B+PRs;Patent+Holder+in+AI+Recruitment;DevOps+%26+Backend+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=100&lines=Engineering+Manager+at+Flipped.ai;1800%2B+Commits+%7C+450%2B+PRs;Patent+Holder+in+AI+Recruitment;Backend+%26+DevOps+Expert" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -49,99 +49,188 @@ const ramAwasthi = {
 
 ## ✨ Professional Impact & Achievements
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Technical Leadership</h3>
-        <p align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="70" height="70" />
-          <br><br>
-          • Led migration to Dockerized DRF<br>
-          • Achieved 60% performance boost<br>
-          • Managing engineering team<br>
-          • Established CI/CD practices
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Innovation</h3>
-        <p align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Innovation" width="70" height="70" />
-          <br><br>
-          • Patent: AI-based Resume Analysis<br>
-          • AI-powered recruitment platform<br>
-          • Automated assessment systems<br>
-          • Scalable microservices architecture
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="60" />
+      <h3>Technical Leadership</h3>
+      <ul align="left">
+        <li>Leading engineering team of talented developers</li>
+        <li>Spearheaded migration to Dockerized microservices</li>
+        <li>Established robust CI/CD practices</li>
+        <li>Achieved 60% improvement in system efficiency</li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Innovation" width="60" />
+      <h3>Innovation</h3>
+      <ul align="left">
+        <li>Patent holder: AI-based Resume Analysis System</li>
+        <li>Developed AI-powered recruitment platform</li>
+        <li>Implemented automated assessment systems</li>
+        <li>Designed scalable microservices architecture</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
+<div align='center'">
+  
+  ### Core Technologies
+  ```mermaid
+  mindmap
+    root((Tech Stack))
+      Backend
+        Python
+        Django/DRF
+        FastAPI
+        Node.js
+      DevOps
+        AWS
+        Docker
+        Kubernetes
+        CI/CD
+      Databases
+        PostgreSQL
+        MongoDB
+        Redis
+        DynamoDB
+      Tools
+        Git
+        Grafana
+        ELK Stack
+        Prometheus
+  ```
 
-### Core Technologies
-```mermaid
-mindmap
-  root((Tech Stack))
-    Backend
-      Python
-      Django/DRF
-      FastAPI
-      Node.js
-    DevOps
-      AWS
-      Docker
-      Kubernetes
-      CI/CD
-    Databases
-      PostgreSQL
-      MongoDB
-      Redis
-      DynamoDB
-    Tools
-      Git
-      Grafana
-      ELK Stack
-      Prometheus
-```
+### Programming & Languages
+<kbd>
+<img width="60" height="50" align='center' src="https://techstack-generator.vercel.app/python-icon.svg"/>
+<br><br><br><b>Python</b></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="60" height="50" align='center' src="https://techstack-generator.vercel.app/cpp-icon.svg"/>
+<br><br><b>C/C++</b></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="60" height="50" align='center' src="https://techstack-generator.vercel.app/java-icon.svg"/>
+<br><br><b>Java</b></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="60" height="50" align='center' src="https://techstack-generator.vercel.app/js-icon.svg"/>
+<br><br><b>JavaScript</b></kbd>
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### Web Development
+<kbd>
+<img width="60" height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
+<br><br><b>HTML</b></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="60" height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
+<br><br><b>CSS</b></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="60" height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"/>
+<br><br><b>Bootstrap</b></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="60" height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
+<br><br><b>jQuery</b></kbd>
+
+### Backend & Frameworks
+<kbd>
+<img width="60" height="50" src="https://techstack-generator.vercel.app/django-icon.svg"/>
+<br><br><b>Django</b></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="60" height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
+<br><br><b>Flask</b></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="60" height="50" src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png"/>
+<br><br><b>OpenAI</b></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="60" height="50" src="https://image.pngaaa.com/296/1947296-middle.png"/>
+<br><br><b>Pandas</b></kbd>
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<kbd>
+<img width="60" height="50" src="https://techstack-generator.vercel.app/aws-icon.svg"/>
+<br><br><b>AWS</b></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="60" height="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png"/>
+<br><br><b>GCP</b></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="60" height="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png"/>
+<br><br><b>Azure</b></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="60" height="50" src="https://techstack-generator.vercel.app/docker-icon.svg"/>
+<br><br><b>Docker</b></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="60" height="50" src="https://techstack-generator.vercel.app/kubernetes-icon.svg"/>
+<br><br><b>Kubernetes</b></kbd>
 
 ### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+<kbd>
+<img width="60" height="50" src="https://techstack-generator.vercel.app/mysql-icon.svg"/>
+<br><br><b>MySQL</b></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="60" height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/>
+<br><br><b>MongoDB</b></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="60" height="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/>
+<br><br><b>Redis</b></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="60" height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"/>
+<br><br><b>DynamoDB</b></kbd>
+
+### Monitoring & Architecture
+<kbd>
+<img width="60" height="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png"/>
+<br><br><b>Grafana</b></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="60" height="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png"/>
+<br><br><b>CI/CD</b></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="60" height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"/>
+<br><br><b>Architecture</b></kbd>
+&nbsp;&nbsp;&nbsp;
+<kbd>
+<img width="60" height="50" src="https://user-images.githubusercontent.com/25181517/187087692-1b80b31c-5cd6-4fd5-aa24-d07e38a6897f.png"/>
+<br><br><b>Prometheus</b></kbd>
+
 
 ## 📊 Contribution Insights
 
 <div align="center">
-  <!-- Yearly Contribution Selector -->
-  <div>
-    <a href="https://github.com/ramg-awasthi?tab=overview&from=2024-01-01&to=2024-12-31">
+  <table border="0">
+    <tr>
+      <td><a href="https://github.com/ramg-awasthi?tab=overview&from=2024-01-01&to=2024-12-31">
       <img src="https://img.shields.io/badge/2024-Current_Year-blue?style=for-the-badge&logo=github"/ >
-    </a>
-    <a href="https://github.com/ramg-awasthi?tab=overview&from=2023-01-01&to=2023-12-31">
+      </a>
+    </td>
+      <td><a href="https://github.com/ramg-awasthi?tab=overview&from=2023-01-01&to=2023-12-31">
       <img src="https://img.shields.io/badge/2023-1582_Contributions-success?style=for-the-badge&logo=github"/>
-    </a>
-    <a href="https://github.com/ramg-awasthi?tab=overview&from=2022-01-01&to=2022-12-31">
+    </a></td>
+      <td><a href="https://github.com/ramg-awasthi?tab=overview&from=2022-01-01&to=2022-12-31">
       <img src="https://img.shields.io/badge/2022-892_Contributions-yellow?style=for-the-badge&logo=github"/>
-    </a>
-    <a href="https://github.com/ramg-awasthi?tab=overview&from=2021-01-01&to=2021-12-31">
+    </a></td>
+      <td><a href="https://github.com/ramg-awasthi?tab=overview&from=2021-01-01&to=2021-12-31">
     <img src="https://img.shields.io/badge/2021-426_Contributions-orange?style=for-the-badge&logo=github"/>
-  </a>
-  </div>
+  </a></td>
+    </tr>
+  </table>
+</div>
   
   <!-- Contribution Graphs -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramg-awasthi&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark" alt="Contribution Graph" width="100%">
@@ -177,12 +266,15 @@ const topRepos = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-awasthi)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramg_awasthi)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ramg_awasthi)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ramgawasthi)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ramgawasthii)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-awasthi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ram@flipped.ai)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ramg_awasthi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ramg_awasthi)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ramgawasthii)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/ramg_awasthi)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ramgawasthi)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ramg_awasthi)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919403254099)
 </div>
 
 ---
