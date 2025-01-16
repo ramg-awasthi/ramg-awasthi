@@ -231,17 +231,17 @@ const ramAwasthi = {
   <table border="0">
     <tr>
       <td><a href="https://github.com/ramg-awasthi?tab=overview&from=2024-01-01&to=2024-12-31">
-      <img src="https://img.shields.io/badge/2024-Current_Year-blue?style=for-the-badge&logo=github"/ >
+      <img src="https://img.shields.io/badge/2024-547_Contributions-blue?style=for-the-badge&logo=github"/ >
       </a>
     </td>
       <td><a href="https://github.com/ramg-awasthi?tab=overview&from=2023-01-01&to=2023-12-31">
-      <img src="https://img.shields.io/badge/2023-1582_Contributions-success?style=for-the-badge&logo=github"/>
+      <img src="https://img.shields.io/badge/2023-1063_Contributions-success?style=for-the-badge&logo=github"/>
     </a></td>
       <td><a href="https://github.com/ramg-awasthi?tab=overview&from=2022-01-01&to=2022-12-31">
-      <img src="https://img.shields.io/badge/2022-892_Contributions-yellow?style=for-the-badge&logo=github"/>
+      <img src="https://img.shields.io/badge/2022-901_Contributions-yellow?style=for-the-badge&logo=github"/>
     </a></td>
       <td><a href="https://github.com/ramg-awasthi?tab=overview&from=2021-01-01&to=2021-12-31">
-    <img src="https://img.shields.io/badge/2021-426_Contributions-orange?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/2021-9_Contributions-orange?style=for-the-badge&logo=github"/>
   </a></td>
     </tr>
   </table>
