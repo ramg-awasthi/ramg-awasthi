@@ -1,4 +1,16 @@
-# <picture><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" /></picture>Hi there, I'm Ram Awasthi  &nbsp; ![](https://komarev.com/ghpvc/?username=ramg-awasthi&color=blue)
+# <picture><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" /></picture>Hi there, I'm Ram Awasthi &nbsp; ![Profile views](https://komarev.com/ghpvc/?username=ramg-awasthi)  ![Rating](https://img.shields.io/badge/Rating-★★★★☆-brightgreen)
+
+<!--
+  ![GitHub User's stars](https://img.shields.io/github/stars/ramg-awasthi?affiliations=OWNER%2CCOLLABORATOR)  
+  ![GitHub followers](https://img.shields.io/github/followers/ramg-awasthi?label=Followers)
+
+  ![Years Badge](https://badges.pufler.dev/years/ramg-awasthi)
+  ![Repos Badge](https://badges.pufler.dev/repos/ramg-awasthi)
+  ![Commits Badge](https://badges.pufler.dev/commits/monthly/ramg-awasthi)
+  ![Commit activity](https://img.shields.io/github/commit-activity/m/ramg-awasthi/ramg-awasthi?style=social)
+
+  ![Maintenance](https://img.shields.io/maintenance/yes/2024)
+-->
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=100&lines=Engineering+Manager+at+Flipped.ai;1800%2B+Commits+%7C+450%2B+PRs;Patent+Holder+in+AI+Recruitment;Backend+%26+DevOps+Expert" alt="Typing SVG" />
@@ -32,7 +44,10 @@ const ramAwasthi = {
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> My Contribution Graph
-![Snake animation](https://github.com/ramg-awasthi/ramg-awasthi/blob/output/github-contribution-grid-snake-dark.svg)
+
+<div align="center">
+  <img src="https://github.com/ramg-awasthi/ramg-awasthi/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
+</div>
 
 ## 🏆 Milestones
 <div align="center">
@@ -237,7 +252,8 @@ const ramAwasthi = {
   
   <div style="display: flex; justify-content: space-between; margin-top: 20px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramg-awasthi&theme=tokyonight&hide_border=true" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ramg-awasthi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ramg-awasthi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" /> 
+<!--     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramg-awasthi&layout=compact&hide_border=true&theme=tokyonight"> -->
   </div>
 </div>
 
@@ -266,15 +282,15 @@ const topRepos = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-awasthi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ram@flipped.ai)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ramg_awasthi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ramg_awasthi)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ramgawasthii)
-[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/ramg_awasthi)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ramgawasthi)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ramg_awasthi)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919403254099)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-awasthi) &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ram@flipped.ai) &nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ramg_awasthi) &nbsp;
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/invite/h7yxVAbx) &nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ramg_awasthi) &nbsp;
+<!--   [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ramg_awasthi) &nbsp; -->
+<!--   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ramgawasthii) &nbsp; -->
+<!--   [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/ramg_awasthi) &nbsp; -->
+<!--   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919403254099) &nbsp; -->
 </div>
 
 ---
