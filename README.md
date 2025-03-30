@@ -13,7 +13,7 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=100&lines=Engineering+Manager+at+Flipped.ai;1800%2B+Commits+%7C+450%2B+PRs;Patent+Holder+in+AI+Recruitment;Backend+%26+DevOps+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=100&lines=Backend+Developer+at+Flipped.ai;1800%2B+Commits+%7C+450%2B+PRs;Patent+Holder+in+AI+Recruitment;Backend+%26+DevOps+Expert" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -23,8 +23,8 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me 
 ```typescript
 const ramAwasthi = {
-    role: "Engineering Manager @Flipped.ai AKA (GAIUS)",
-    experience: "5+ years",
+    role: "Engineering Manager @Flipped.ai AKA (GAIUS NETWORKS)",
+    experience: "4+ years",
     achievements: ["Patent Holder", "60% Performance Boost", "1800+ Commits"],
     expertise: ["Backend Development", "DevOps", "System Architecture", "Team Leadership"],
     currentFocus: "Building AI-powered recruitment solutions",
